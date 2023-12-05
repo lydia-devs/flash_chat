@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179059845070",
+    "project_id": "flash-chat-593de",
+    "storage_bucket": "flash-chat-593de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179059845070:android:163b2aba97c0378571ad9f",
+        "android_client_info": {
+          "package_name": "com.LydiaDyach.flash_chatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179059845070-eb7qsbeh4qp8ap2mq4o4g1p5u1c0qa7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIxnpqP5g_KwnTcH8lRbxDlf37fyBrNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179059845070-eb7qsbeh4qp8ap2mq4o4g1p5u1c0qa7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
